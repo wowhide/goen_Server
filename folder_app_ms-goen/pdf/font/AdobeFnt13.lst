@@ -1,0 +1,47 @@
+%!Adobe-FontList 1.13
+%Locale:0x411
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IPAexGothic
+FamilyName:IPAexGothic
+StyleName:Regular
+FullName:IPAexGothic
+MenuName:IPAexゴシック
+StyleBits:0
+FamilyNameNative:IPAexゴシック
+StyleNameNative:Regular
+FullNameNative:IPAexゴシック
+WritingScript:Japanese
+OutlineFileName:C:\Users\john\Desktop\MemorialServiceDev_VersionUp\premium_v2_memorial-site\premium_v2_memorial-site\premium_v2_memorial-site\folder_app_ms-dev\pdf\Font\ipaexg.ttf
+DataFormat:sfntData
+FileLength:6099684
+FileModTime:1467079440
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:IPAPMincho
+FamilyName:IPAPMincho
+StyleName:Regular
+FullName:IPAPMincho
+MenuName:IPA P明朝
+StyleBits:0
+FamilyNameNative:IPA P明朝
+StyleNameNative:Regular
+FullNameNative:IPA P明朝
+WritingScript:Japanese
+OutlineFileName:C:\Users\john\Desktop\MemorialServiceDev_VersionUp\premium_v2_memorial-site\premium_v2_memorial-site\premium_v2_memorial-site\folder_app_ms-dev\pdf\Font\ipamp.ttf
+DataFormat:sfntData
+FileLength:8060612
+FileModTime:1461738480
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+

@@ -1,0 +1,14 @@
+<!-- <h1>ご縁アプリ管理システム</h1>
+ -->
+    {if $managerAuth == 1}
+    	<h1>デジタルスペースワウ＿ご縁アプリ管理システム_管理者権限での操作</h1>
+    {/if}
+    {if $managerAuth != 1}
+    	{if empty($morticianName) == false}
+    	<h1>{$morticianName}様_ご縁アプリ管理システム</h1>
+    	{/if}
+    	{if !empty($morticianName) == false}
+    	<h1>ご縁アプリ管理システム</h1>
+    	{/if}
+    {/if}
+
